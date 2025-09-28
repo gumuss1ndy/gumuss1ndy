@@ -1,6 +1,6 @@
 # Hi there, I'm Cindy 👋  
 
-**`Developer | Writer | Aspiring QA`**
+**`Software Developer`**
 
 ---
 
